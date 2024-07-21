@@ -12,7 +12,7 @@ This is a simple implementation of a `BankAccount` class in Python. The class su
 
 ## Working Example
 
-``bash
+```bash
 Welcome to Our Banking Service!
 Enter account holder's name: santosh mallick
 Enter initial balance: 3000
