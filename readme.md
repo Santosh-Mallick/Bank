@@ -1,4 +1,4 @@
-# BankAccount Class
+# BankAccount
 
 This is a simple implementation of a `BankAccount` class in Python. The class supports basic banking operations such as depositing, withdrawing, checking balance, changing PIN, and loan transfer. It includes features such as ATM PIN validation and interest charges for large withdrawals.
 
